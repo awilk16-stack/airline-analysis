@@ -1,0 +1,18 @@
+﻿Metryka / Cecha,MLP_Standard,Neural_Net_HE_Szyfrowany,Neural_Net_DP_Opacus
+Dokładność (Accuracy),0.9222,0.9278,0.9228
+Czas wykonania (sek),11.04,91.37,12.94
+Precision,0.93,0.93,0.94
+Recall,0.92,0.93,0.91
+F1-score,0.93,0.93,0.93
+True Negative (TN),706.0,701.0,712.0
+False Positive (FP),55.0,60.0,49.0
+False Negative (FN),71.0,57.0,76.0
+True Positive (TP),788.0,802.0,783.0
+Value For Money,0.330247,0.343827,0.322222
+Review_Sentiment,0.059321,0.065802,0.064815
+Seat Comfort,0.001667,0.000864,0.002469
+Staff Service,0.0,0.00358,0.0
+Food & Beverages,0.0,0.000617,0.002469
+Inflight Entertainment,0.000185,0.001235,0.000617
+Class_Code,0.00142,0.000926,0.001852
+Traveller_Type_Code,0.0,0.001975,0.0
